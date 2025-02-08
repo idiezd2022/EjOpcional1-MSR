@@ -7,4 +7,5 @@ Irene Diez de Toro - Tercero Ingenieria Robotica de Software
 - Añadir parametros de friccion y torsion.
 
 Captura en pybullet:
+
 ![imagen](IMAGEN.png)
